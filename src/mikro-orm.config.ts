@@ -8,8 +8,11 @@ export default {
         path: path.join(__dirname, './migrations'), // path to the folder with migrations
         pattern: /^[\w-]+\d+\.[tj]s$/,
     },
+    name : "postgres",
+    password : "iloveyou19",
     entities : [Post],
     dbName : 'lireddit',
     type : 'postgresql',
     debug : !__prod__,
 } as Parameters<typeof MikroORM.init>[0];
+
