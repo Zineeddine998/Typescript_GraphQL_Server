@@ -13,9 +13,9 @@ exports.default = {
     },
     entities: [Post_1.Post],
     dbName: 'lireddit',
-    user:'postgres',       
-    password : 'iloveyou19',
     type: 'postgresql',
+    user: 'postgres',
+    password: 'iloveyou19',
     debug: !constants_1.__prod__,
 };
 //# sourceMappingURL=mikro-orm.config.js.map
