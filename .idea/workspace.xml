@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b9567dd-ed76-4b24-9533-cc1ad572a719" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/types.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/entities/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/entities/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/entities/Post.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/entities/Post.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/resolvers/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/resolvers/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/resolvers/post.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/resolvers/post.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Post.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Post.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mikro-orm.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/mikro-orm.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resolvers/post.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resolvers/post.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +99,8 @@
       <workItem from="1598567395338" duration="1250000" />
       <workItem from="1598577102911" duration="3624000" />
       <workItem from="1598650523260" duration="1298000" />
+      <workItem from="1598667882878" duration="655000" />
+      <workItem from="1598668552157" duration="1817000" />
     </task>
     <servers />
   </component>
@@ -115,22 +127,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="179" key="DBNavigator.ResultSetRecordViewerDialog/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1598579181688" />
-    <state width="1493" height="348" key="GridCell.Tab.0.bottom" timestamp="1598579798564">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1598668783685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1598579798564" />
-    <state width="1493" height="348" key="GridCell.Tab.0.center" timestamp="1598579798564">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598668783685" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1598668783683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="348" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1598579798564" />
-    <state width="1493" height="348" key="GridCell.Tab.0.left" timestamp="1598579798564">
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598668783683" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1598668783683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="348" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1598579798563" />
-    <state width="1493" height="348" key="GridCell.Tab.0.right" timestamp="1598579798564">
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598668783683" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1598668783683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="348" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1598579798564" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598668783683" />
     <state x="279" y="57" key="SettingsEditor" timestamp="1598406890762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
