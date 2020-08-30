@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b9567dd-ed76-4b24-9533-cc1ad572a719" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/entities/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/entities/User.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/migrations/Migration20200829233755.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/migrations/Migration20200829233755.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/migrations/Migration20200830001501.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/migrations/Migration20200830001501.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/User.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/migrations/Migration20200830001501.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resolvers/user.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mikro-orm.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/mikro-orm.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/mikro-orm.config.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/mikro-orm.config.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mikro-orm.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/mikro-orm.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/resolvers/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/resolvers/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/resolvers/user.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/resolvers/user.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resolvers/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resolvers/user.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +101,7 @@
       <workItem from="1598650523260" duration="1298000" />
       <workItem from="1598667882878" duration="655000" />
       <workItem from="1598668552157" duration="1962000" />
-      <workItem from="1598737017594" duration="4476000" />
+      <workItem from="1598737017594" duration="6675000" />
     </task>
     <servers />
   </component>
