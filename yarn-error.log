@@ -31,7 +31,7 @@ npm manifest:
     "name": "react_graphql_skelton",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "index.tsx",
     "scripts": {
       "watch": "tsc -w",
       "test": "echo \"Error: no test specified\" && exit 1",
